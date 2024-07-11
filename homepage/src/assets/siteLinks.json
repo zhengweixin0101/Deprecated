@@ -1,0 +1,33 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.weexy.cn/"
+  },
+  {
+    "icon": "Camera",
+    "name": "动态",
+    "link": "https://blog.weexy.cn/daily/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.weexy.cn/"
+  },
+  {
+    "icon": "AppStoreIos",
+    "name": "APPs",
+    "link": "https://app.weexy.cn/"
+  },
+  {
+    "icon": "Pen",
+    "name": "访问统计",
+    "link": "https://umami.weexy.cn/statistics"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.weexy.cn/"
+  }
+
+]
