@@ -1,0 +1,250 @@
+- title: 即刻说说
+  subTitle: 我的日常生活
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 999
+  home_essay: true
+  top_background: /essay/img/top_backgroun.webp
+  essay_list:
+    - content: 这是北斗七星不？
+      date: 2024/02/11 19:00
+      image:
+      - /essay/img/2024/02/11.jpg
+      address: 江山·外白坑
+      from: Weexy
+    - content: 今年红包这么大，我没做梦吧
+      date: 2024/02/09 20:00
+      image:
+      - /essay/img/2024/02/09.jpg
+      address: 江山·下平山
+      from: Weexy
+    - content: 多幸运的官改是真挺丝滑的。
+      date: 2024/01/28 12:00
+      image:
+      - /essay/img/2024/01/28.jpg
+      address: 江山
+      from: Weexy
+    - content: 下雪了卧槽
+      date: 2024/01/22 07:00
+      image:
+      - /essay/img/2024/01/22a.jpg
+      - /essay/img/2024/01/22b.jpg
+      address: 江山
+      from: Weexy
+    - content: 改了个开机动画，怪牛逼的
+      date: 2024/01/14 17:30
+      image:
+      - /essay/img/2024/01/14.jpg
+      address: 江山
+      from: Weexy
+    - content: 转行，刷机！
+      date: 2024/01/10 20:30
+      image:
+      - /essay/img/2024/01/10.jpg
+      address: 江山
+      from: Weexy
+    - content: 博客建立100天纪念！🎉🎉🎉🎉
+      date: 2024/01/05 00:00
+      address: 江山
+      from: Weexy
+    - content: 大型纪录片《东实传奇》
+      date: 2024/01/02 21:30
+      video:
+      - /essay/img/2024/01/02.mp4
+      address: 江山
+      from: Weexy
+    - content: 谁家好人生日在今天呀！
+      date: 2024/01/01 8:30
+      address: 江山
+      from: Weexy
+    - content: 你好，2024！
+      date: 2024/01/01 00:00
+      address: 江山
+      from: Weexy
+    - content: 某人送的生日礼物 还怪好看的勒😍
+      date: 2023/12/31 10:25
+      image:
+      - /essay/img/2023/12/30.jpg
+      address: 江山
+      from: Weexy
+    - content: 昨天还觉得热，今天直接把我冻死了🥶🥶🥶🥶🥶
+      date: 2023/12/16 18:25
+      image:
+      - /essay/img/2023/12/16.jpg
+      address: 江山
+      from: Weexy
+    - content: 突然发现搜索引擎中，博客文章链接不带 .html ，导致评论不在文章中显示，正在想办法解决🙄。（感谢 江湖小虾米 的评论让我发现这一问题）
+      date: 2023/12/6 20:20
+      address: 江山
+      from: Weexy
+    - content: 不是苹果买不起，而是红米更有性价比。
+      date: 2023/11/26 08:50
+      image:
+      - /essay/img/2023/11/26a.jpg
+      - /essay/img/2023/11/26b.jpg
+      address: 江山
+      from: Weexy
+    - content: Win 11的这个Copilot我也是用上了好吧。
+      date: 2023/11/20 22:05
+      image:
+      - /essay/img/2023/11/20.jpg
+      address: 江山
+      from: Weexy
+    - content: 一年半过去了，我的近视居然没涨😁
+      date: 2023/11/19 17:10
+      address: 江山
+      from: Weexy
+    - content: 期中考试也是考完了，希望不要太差😱😱
+      date: 2023/11/17 15:00
+      address: 江山
+      from: Weexy
+    - content: 我真是好人
+      date: 2023/11/12 16:55
+      image:
+      - /essay/img/2023/11/12.jpg
+      address: 江山
+      from: Weexy
+    - content: 绝区零，我也是玩到了好吧
+      date: 2023/11/5 11:40
+      image:
+      - /essay/img/2023/11/5a.jpg
+      - /essay/img/2023/11/5b.jpg
+      address: 江山
+      from: Weexy
+    - content: 该死的谷歌..........
+      date: 2023/11/3 20:45
+      image:
+      - /essay/img/2023/11/3.jpg
+      address: 江山
+      from: Weexy
+    - content: 美好的11月，从上学开始✪ ω ✪
+      date: 2023/11/1 06:30
+      address: 江山
+      from: Weexy
+    - content: 老了，去年可是拿金牌的，这次牌都没用🤡🤡🤡
+      date: 2023/10/30 20:30
+      image:
+      - /essay/img/2023/10/30.jpg
+      address: 江山
+      from: Weexy
+    - content: 再次来到熟悉的解放路
+      date: 2023/10/29 18:30
+      image:
+      - /essay/img/2023/10/29a.jpg
+      - /essay/img/2023/10/29b.jpg
+      address: 江山 · 解放路
+      from: Weexy
+    - content: 不上晚自习真爽！
+      date: 2023/10/27 16:30
+      address: 江山
+      from: Weexy
+    - content: 谁家好人拿希沃玩原神 ( ﾟдﾟ)
+      date: 2023/10/26 09:55
+      image:
+      - /essay/img/2023/10/26.jpg
+      address: 江山 · At my school
+      from: Weexy
+    - content: 明天运动会好吧ヾ(•ω•`)o傻逼老师叫我这个废物去跳高，真无语(ToT)
+      date: 2023/10/24 20:30
+      address: 江山
+      from: Weexy
+    - content: 刚夸它好用，结果就不让用了(ToT)/~~~算了，老实用vercel吧，以后博客可能没这么快的访问速度了。
+      date: 2023/10/23 20:30
+      image:
+      - /essay/img/2023/10/23.jpg
+      address: 江山
+      from: Weexy
+    - content: 老家刚回来，md冻死我了(⊙﹏⊙)
+      date: 2023/10/21 19:10
+      address: 江山 · 塘岭
+      from: Weexy
+    - content: 好可怜的大鸟
+      date: 2023/10/18 6:40
+      image:
+      - /essay/img/2023/10/18.jpg
+      address: 江山
+      from: Weexy
+    - content: 运动量超标，明天躺一天ヾ(^▽^*)))
+      date: 2023/10/14 21:25
+      image:
+      - /essay/img/2023/10/14h.jpg
+      address: 江山
+      from: Weexy
+    - content: 晚上的须江公园还是第一次来ヾ(￣▽￣)
+      date: 2023/10/14 20:05
+      image:
+      - /essay/img/2023/10/14c.jpg
+      - /essay/img/2023/10/14d.jpg
+      - /essay/img/2023/10/14e.jpg
+      address: 江山 · 须江公园
+      from: Weexy
+    - content: 和同学在外面玩，吃点不是很好吃的好吃的\(￣︶￣*\))
+      date: 2023/10/14 18:50
+      image:
+      - /essay/img/2023/10/14a.jpg
+      - /essay/img/2023/10/14b.jpg
+      - /essay/img/2023/10/14i.jpg
+      address: 江山 · 解放路
+      from: Weexy
+    - content: 这周作业出奇的少耶ヾ(•ω•`)o 
+      date: 2023/10/13 22:24
+      address: 江山
+      from: Weexy
+    - content: 月考成绩出来了，要死咯(ToT)/~~~ 有没有学霸愿意辅导我(ToT)/~~~
+      date: 2023/10/11 20:30
+      image:
+      - /essay/img/2023/10/11.jpg
+      address: 江山
+      from: Weexy
+    - content: 博客和评论系统迁移到了zeabur（免费！！！），速度真的快，再也不怕图片加载不出来了\(￣︶￣*\))
+      date: 2023/10/10 20:50
+      address: 江山
+      from: Weexy
+      link: https://zeabur.com/zh-CN
+    - content: 弄了个 个人主页 ( •̀ .̫ •́ )✧
+      date: 2023/10/6 19:24
+      image:
+      - /essay/img/2023/10/6a.jpg
+      - /essay/img/2023/10/6b.jpg
+      address: 江山
+      from: Weexy
+      link: https://weexy.cn/
+    - content: 写了一天作业，也是写完了好吧😪
+      date: 2023/10/5 16:42
+      address: 江山
+      from: Weexy
+    - content: 作业怎么这么多啊😱😱😱写不完，根本写不完😣
+      date: 2023/10/4 13:42
+      address: 江山
+      from: Weexy
+    - content: 博客接入了 Twikoo 评论系统🎉🎉🎉大家可以评论啦！谁会是我的第一条评论呢👀
+      date: 2023/10/3 13:36
+      image:
+      - /essay/img/2023/10/3.jpg
+      address: 江山
+      from: Weexy
+    - content: 在外婆家玩，在河里抓了一点点鱼😍😍😍
+      date: 2023/10/2 12:52
+      image:
+      - /essay/img/2023/10/2a.jpg
+      - /essay/img/2023/10/2b.jpg
+      address: 江山 · 外白坑
+      from: Weexy
+    - content: 国庆收到的第一个红包ヾ(≧▽≦*)o  虽然尊嘟没多少😊什么？你们不会还没有吧？
+      date: 2023/10/1 11:06
+      image:
+      - /essay/img/2023/10/1a.jpg
+      - /essay/img/2023/10/1b.jpg
+      address: 江山
+      from: Weexy
+    - content: 看我给学姐（我的同学）拍的丑照🤡🤡🤡哈哈哈哈哈哈哈哈哈哈哈哈哈，抖音特效真好玩🤣
+      date: 2023/9/29
+      image:
+      - /essay/img/2023/9/29.jpg
+      address: 江山
+      from: Weexy
+    - content: 我的博客建立啦🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+      date: 2023/9/27 
+      address: 江山
+      from: Weexy
