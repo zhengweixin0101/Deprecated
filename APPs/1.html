@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APPs | Weexy</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <nav>
+               <h1>My APPs</h1>
+                <ul>
+                    <li><a href="#"> </a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <div class="category-list">
+                <div v-for="category in categories" :key="category.id" class="category">
+                    <h2>{{ category.name }}</h2>
+                    <div class="site-list">
+                        <a v-for="site in category.sites" :key="site.id" :href="site.url" target="_blank" class="site">
+                            <h3>{{ site.title }}</h3>
+                            <p>{{ site.description }}</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <p>© 2024 Weexy</p>
+        </footer>
+    </div>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
